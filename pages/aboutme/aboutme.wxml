@@ -1,0 +1,7 @@
+<!--aboutme.wxml-->
+<view class="container">
+  <view>
+  <image src="../../images/icon.png"></image>
+  <text class="user-test">{{userInfo.nickName}}</text>
+  </view>
+</view>
